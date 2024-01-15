@@ -12,7 +12,7 @@ comunicar entre ellos, enviando y recibiendo mensajes.
 - "" envía el mensaje a todos los usuarios conectados.
 - "exit" cierra la sesión del cliente.
 
-[Vídeo demo](https://youtu.be/8DrpdzO3shkhttps://youtu.be/8DrpdzO3shk)
+[Vídeo demo](https://youtu.be/8DrpdzO3shkhttps://youtu.be/8DrpdzO3shk)  
 [source](../../tree/src)
 
 ![Texto alternativo](3.png)
