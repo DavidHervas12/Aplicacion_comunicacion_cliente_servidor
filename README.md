@@ -7,9 +7,9 @@ sockets en ese puerto, el servidor creará un hilo por cada cliente y estos se p
 comunicar entre ellos, enviando y recibiendo mensajes.
 
 ### Los tipos de mensaje son los siguientes:
--"?" muestra los usuarios conectados.
--"@nombreUsuario" envía un mensaje a un usuario en concreto.
--"" envía el mensaje a todos los usuarios conectados.
--"exit" cierra la sesión del cliente.
+- "?" muestra los usuarios conectados.
+- "@nombreUsuario" envía un mensaje a un usuario en concreto.
+- "" envía el mensaje a todos los usuarios conectados.
+- "exit" cierra la sesión del cliente.
 
 [Vídeo demo]([URL_del_enlace](https://youtu.be/8DrpdzO3shk)https://youtu.be/8DrpdzO3shk)
