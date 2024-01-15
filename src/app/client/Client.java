@@ -50,7 +50,7 @@ public class Client {
 				System.out.println(generateTimeStamp() + ": " + input);
 				pwServidor.println(input);
 				pwServidor.flush();
-			}
+			}  
 
 			System.out.println("Conexio finalitzada.");
 
