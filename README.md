@@ -13,3 +13,5 @@ comunicar entre ellos, enviando y recibiendo mensajes.
 - "exit" cierra la sesión del cliente.
 
 [Vídeo demo](https://youtu.be/8DrpdzO3shkhttps://youtu.be/8DrpdzO3shk)
+
+![Texto alternativo](URL_de_la_imagen)
